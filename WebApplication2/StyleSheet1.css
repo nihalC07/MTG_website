@@ -1,0 +1,14 @@
+﻿body {font-size: 16px;line-height: 1.5; padding:0px; font-family: wf_segoe-ui_normal, Tahoma, Verdana, Arial, sans-serif; font-weight: normal; margin:0px}
+#fluid-bar {height:50px; background-color:white; width:100%; float:left}
+.dropD {height:100%; background-color:white; border:hidden; color:black; font-family:'Segoe UI'; font-size:98%; text-align:center; cursor:pointer; float:left; padding:10px 15px 10px 15px; }
+.dropD:hover{background-color:#f7f7f7}
+#search {height: 31px; margin-top: 7px; margin-left:30%; width: 17%; float:left; font-size:105%; color:black; padding:1px 0px 1px 10px;}
+.but{height:100%; width:auto; padding-left:10px; padding-right:10px; background-color:white; border:none; float:left}
+.but:hover {background-color:#f7f7f7}
+.quad { width:92.5%; float:left; padding-top:80px;}
+.peice { width:22%; float:left; padding:3px;}
+.peice:hover{opacity:0.8}
+.peiceimg{width:90%; margin-left:10%; float:left;}
+.subT{text-align:center; font-size:150%; font-weight:100; width:100%; text-anchor:middle; padding-left:5%; padding-top:160px; color:#4c4c4c}
+.disc{text-align:center; font-size:110%; font-weight:100; width:100%; text-anchor:middle; padding-left:5%; padding-top:10px; color:#4c4c4c}
+#bottom{background-color:gray; width:90%; height:auto; float:left; padding-left:10%; vertical-align:central}
